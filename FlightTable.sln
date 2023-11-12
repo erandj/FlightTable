@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightTable", "FlightTable\FlightTable.csproj", "{78776F33-E6CE-42D7-B479-751C71EB2742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78776F33-E6CE-42D7-B479-751C71EB2742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78776F33-E6CE-42D7-B479-751C71EB2742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78776F33-E6CE-42D7-B479-751C71EB2742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78776F33-E6CE-42D7-B479-751C71EB2742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D9E14E9-AE03-4631-A7FF-64ACA4A13DC8}
+	EndGlobalSection
+EndGlobal
